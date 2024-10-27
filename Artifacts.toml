@@ -1,459 +1,477 @@
 [[Packmol]]
 arch = "aarch64"
-git-tree-sha1 = "4822179f354b0ba9988fe1a41a6e8135610ef91e"
+git-tree-sha1 = "536269db2f66a0eadcfd40f2632b580c5779ecb2"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[Packmol.download]]
-    sha256 = "bbea6e5b66c2e1403475d75f721e99c9915b68b950958379b5c19c7aae1e90ee"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "998dc7cd43f4421c1d022625b90a5917e5f5f2c231ef15474f9b3fc117a1c255"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[Packmol]]
 arch = "aarch64"
-git-tree-sha1 = "2a1f47bb021919fbdddc61e5d38da7375ae70624"
+git-tree-sha1 = "10b79e54b86fe21f35c249213f3254530253c165"
 libc = "glibc"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Packmol.download]]
-    sha256 = "1b0dbebbf89b6878d05d9431af63dbf53e70ca76c0b83824dfa80fec1386ec16"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.aarch64-linux-gnu-libgfortran3.tar.gz"
+    sha256 = "3d6423e517222ec25709fb667dc5f8ff4d8ca9bedbd2fd1e8ecf6143583b33e5"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.aarch64-linux-gnu-libgfortran3.tar.gz"
 [[Packmol]]
 arch = "aarch64"
-git-tree-sha1 = "fc09e4076a6d9326fb4b560b06a5e211fdb901fe"
+git-tree-sha1 = "a15e856ec998af1337712d6428a8a5e0b96b392e"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Packmol.download]]
-    sha256 = "da5fa6e6de6d0636670590a171dd9ba3744a274622e137845b97f0721b8f8f3d"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.aarch64-linux-gnu-libgfortran4.tar.gz"
+    sha256 = "1a0fdfca9d41587c31fd248f86b28a36384dbb611ab37ede6d5de9560342e7a0"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.aarch64-linux-gnu-libgfortran4.tar.gz"
 [[Packmol]]
 arch = "aarch64"
-git-tree-sha1 = "c2cb7ed3ff836e9f8b90307898cfec83b4c912b2"
+git-tree-sha1 = "93f7a34ea5f850886f02df1b94ca5a032a7efe0a"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Packmol.download]]
-    sha256 = "51f6a64ba811ca8b4a8adfe97ab59499ed93a35fd0b5f0b7db6e8abde64865fd"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.aarch64-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "56b675d951006773f90d61c81973618b6e4809aa14d4e19045b226b4b9be1f92"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.aarch64-linux-gnu-libgfortran5.tar.gz"
 [[Packmol]]
 arch = "aarch64"
-git-tree-sha1 = "84cfdf54221b69c02d2cc0baafa8eed05e4c3d51"
+git-tree-sha1 = "eff542d78aa1876662b3123121c6bf62cd870a65"
 libc = "musl"
 libgfortran_version = "3.0.0"
 os = "linux"
 
     [[Packmol.download]]
-    sha256 = "97315ed6b20b3d3aad461a5eb681af834182f29683817f7d7b2a3b753adbf281"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.aarch64-linux-musl-libgfortran3.tar.gz"
+    sha256 = "dd6344678de67c631f7bed4dcaf2113848158a32862afd6c26977da1232f0006"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.aarch64-linux-musl-libgfortran3.tar.gz"
 [[Packmol]]
 arch = "aarch64"
-git-tree-sha1 = "1e2008a8cb44a0fadcb7b003774f6f71abda9e1a"
+git-tree-sha1 = "c302fde5b4a96a85ee5abd899bf65d568b4f51c5"
 libc = "musl"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[Packmol.download]]
-    sha256 = "13b9699fc1b85e539c4f6188febfbcecc0eeeac774d049875d5c247af5b6a01b"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.aarch64-linux-musl-libgfortran4.tar.gz"
+    sha256 = "0744c6bea5fbfb7f0a7eb6f393d27e9e772ecb0f2a39ceacdf77d974ad177ca7"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.aarch64-linux-musl-libgfortran4.tar.gz"
 [[Packmol]]
 arch = "aarch64"
-git-tree-sha1 = "763fae8e05966ac1736e5075c1c1d4a3f6dace6d"
+git-tree-sha1 = "636c1ee3a219211ada8bcb6c07aaa5df280b3dc2"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Packmol.download]]
-    sha256 = "6591888c5a183236abe6f26a26a2033d8abb92a90a205f674efaaa042f7f046f"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.aarch64-linux-musl-libgfortran5.tar.gz"
+    sha256 = "1b094698765aa53a39079e9b54e35709dde2d86078c119b76d9ea16f2cd22013"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.aarch64-linux-musl-libgfortran5.tar.gz"
 [[Packmol]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "b5d99a49713b89614eda02766541ed23a636503a"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "cc825e6eae487bc0090225c0720cca7a75b4e796cce1aace512cbb4d78b5c7e4"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
-[[Packmol]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "644fc4130e1a4b4f243a3a2d310ff58d7115356f"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "4f7c18e49a079f6b47133808b63e3f7efa4b6683626e32a085b1564990b725c0"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
-[[Packmol]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "bc17a676c2b16d8928ed061ae3917ecc91bb6294"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "93b86db3ac8408090c772cd5d0d482485f35629e175edae6ee419ca7f53e5e03"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
-[[Packmol]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "b992a01e807ca28071567c8369d57166caf9aff7"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "7ac7f5390c278820cfb9d2a0c706d34d9fab0ef0e880b1f04a315925d5d1a03b"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.armv6l-linux-musleabihf-libgfortran3.tar.gz"
-[[Packmol]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "f3d9433aa470ec67f043824d6414d8b68af8a0da"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "ecb0a902b058de004eb4530e3542e1ab9063c69ff0eb0e0ed617a04163b4b5bf"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.armv6l-linux-musleabihf-libgfortran4.tar.gz"
-[[Packmol]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "372fcc4520edab9b4d65b83e87c19d2a4fdeb0f2"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "0344e15526116a283f5ed83969da8ad0f043088ec5cb279fcb21d41b828e7869"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.armv6l-linux-musleabihf-libgfortran5.tar.gz"
-[[Packmol]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "d970ab8f812bb37c00cf3d9e743fdadbc075ebb9"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "ba397991bda9c8fb1b80e57b74f0cff69e0e25b38d31f6444813dfecffd61a03"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
-[[Packmol]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "44e319355f3fa27f1b6906a3011394c315441a96"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "27c67c04ef38a1ddf1836037d297d2b08fb3b75bfd55fb2b99e1267b00df5f4e"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
-[[Packmol]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "a26ffb252b38b061e93ce4112788214eeea5980c"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "8fbac963efedd4359b91b239c6def2905c99e7d2b8425dc8f8a5e92c8912c11d"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
-[[Packmol]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "8ac492826090401dd63710ebb81e4634d7802534"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "24f4150530591539f7671fba6e17131bcf36ddfd3cafe013d6abad6954a79742"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.armv7l-linux-musleabihf-libgfortran3.tar.gz"
-[[Packmol]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "32e46f167efe1f220dcd7ff336134a97bc20eab9"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "8113eb351c8cea020ad417e6197cdb6f9d5c31ca56b09d6a7ceb354463c10245"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.armv7l-linux-musleabihf-libgfortran4.tar.gz"
-[[Packmol]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "b75912c4c3b2c6a32cd9ea82197ae89211f660d5"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "64d952a36481c8171f7aa0f3f8f1ae138a3616879be3f462b64d772c58b441ea"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.armv7l-linux-musleabihf-libgfortran5.tar.gz"
-[[Packmol]]
-arch = "i686"
-git-tree-sha1 = "33bfb2e58986f430a240b9261142fe5af5c300f8"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "307cfd64a8f6cff706cd79b04dab940df5f46038b60345fe57adae38cc54773b"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.i686-linux-gnu-libgfortran3.tar.gz"
-[[Packmol]]
-arch = "i686"
-git-tree-sha1 = "492ab25ea52718a400d97cf8c184be1d86cf5132"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "7d0a63ea6a9d332f491c24a6dbacb49160c672ef2a70fc10c7eb0ee50965fbf5"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.i686-linux-gnu-libgfortran4.tar.gz"
-[[Packmol]]
-arch = "i686"
-git-tree-sha1 = "0ef2a3c4285bef830e5350cfa937f325689da22a"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "4fab5cd50a151cbb59097ea85dbe3852405620dbe1c35d242686e6563e46ada8"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.i686-linux-gnu-libgfortran5.tar.gz"
-[[Packmol]]
-arch = "i686"
-git-tree-sha1 = "173f52ce826852cf05c8b05b48e333144a04d966"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "ed43938330456742b8e8fcb23a9cad0ef543ee199201e59d329112283ba1a61c"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.i686-linux-musl-libgfortran3.tar.gz"
-[[Packmol]]
-arch = "i686"
-git-tree-sha1 = "54fb724eea9a9f4a13604ea96d581492a60a9370"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "220167dea5ee04bea8a430b259d166bf07ac78ee296a7e9eae914e05bc57b6b8"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.i686-linux-musl-libgfortran4.tar.gz"
-[[Packmol]]
-arch = "i686"
-git-tree-sha1 = "cbf58a6f21e586839f409b782c91939425911dfd"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "ce891f37479412328c97545a74546503f45e00869ac77870201555e3595de8af"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.i686-linux-musl-libgfortran5.tar.gz"
-[[Packmol]]
-arch = "i686"
-git-tree-sha1 = "099df7a0b76ccc9ccbee1f46baeacbb1970c8428"
-libgfortran_version = "3.0.0"
-os = "windows"
-
-    [[Packmol.download]]
-    sha256 = "b6728c11536a3c3acf53386607097dbe8ead8bc926b23865755ff3f6606f5523"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.i686-w64-mingw32-libgfortran3.tar.gz"
-[[Packmol]]
-arch = "i686"
-git-tree-sha1 = "c399991f5d177c58003f5a1cf2e4f1b41f42d47b"
-libgfortran_version = "4.0.0"
-os = "windows"
-
-    [[Packmol.download]]
-    sha256 = "ca6f7975c095281088e765287166dcdc9bdef2b42f244b0f3020c56ec8e266b8"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.i686-w64-mingw32-libgfortran4.tar.gz"
-[[Packmol]]
-arch = "i686"
-git-tree-sha1 = "d7b9c9229f53c4676f1c82521b8b0c72e81ba51e"
-libgfortran_version = "5.0.0"
-os = "windows"
-
-    [[Packmol.download]]
-    sha256 = "89cce3296f21319860c7e20750793991b6183dacfb21152249dcf1cbb7c66db0"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.i686-w64-mingw32-libgfortran5.tar.gz"
-[[Packmol]]
-arch = "powerpc64le"
-git-tree-sha1 = "db20c3c3e05a2a7a15ede982044c70bd4c364cd0"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "539042fa1acf55b04eccbd060bab401310e083a36517c10c52292205058e040c"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.powerpc64le-linux-gnu-libgfortran3.tar.gz"
-[[Packmol]]
-arch = "powerpc64le"
-git-tree-sha1 = "4dad9872a3cfc8756b03409a8887b9785997a17f"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "40eb7983161852912533c269015ddffdaba6ee6bd6c1556f517797f3ec2fc5ef"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.powerpc64le-linux-gnu-libgfortran4.tar.gz"
-[[Packmol]]
-arch = "powerpc64le"
-git-tree-sha1 = "3380c1aff49bb370f0b9530cd5680023c02095b3"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "7ddecebdc5300f748f58de5031d9fc7da76f13316a61eeae010e761bf56a3e83"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.powerpc64le-linux-gnu-libgfortran5.tar.gz"
-[[Packmol]]
-arch = "x86_64"
-git-tree-sha1 = "8388d79ff029612cdfc3b9aa69353d5a635f8dd7"
-libgfortran_version = "3.0.0"
-os = "macos"
-
-    [[Packmol.download]]
-    sha256 = "1e67b3518c2292749e16e9e3163b1b8b0774df75ce9fa68e8aa3a648da0d73bb"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.x86_64-apple-darwin-libgfortran3.tar.gz"
-[[Packmol]]
-arch = "x86_64"
-git-tree-sha1 = "2d4e7eb2d13fcc01fcfe1c41c7f000258e6b35f2"
-libgfortran_version = "4.0.0"
-os = "macos"
-
-    [[Packmol.download]]
-    sha256 = "96b156b60b86565c7572211fa826db39df098ee8884dd041642ddad65dd5911d"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.x86_64-apple-darwin-libgfortran4.tar.gz"
-[[Packmol]]
-arch = "x86_64"
-git-tree-sha1 = "304e5a0f50281b6038042462ea54cc52064d827a"
-libgfortran_version = "5.0.0"
-os = "macos"
-
-    [[Packmol.download]]
-    sha256 = "05703150b5b11bef0261bcac8e191cda27dd9f79fbe2519b070f4bba1c8ed3d7"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.x86_64-apple-darwin-libgfortran5.tar.gz"
-[[Packmol]]
-arch = "x86_64"
-git-tree-sha1 = "4d49cc8ff5f7dc64937138077ac8c2f04ebbd24f"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "5c863637e76efe775e0c4735b9a117ee60e7edee7d8d70522aa41f0b92ac882e"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.x86_64-linux-gnu-libgfortran3.tar.gz"
-[[Packmol]]
-arch = "x86_64"
-git-tree-sha1 = "76c8b457a03d346fc3f2300c4eac5f15e4f52a30"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "a2387fb266a97002f5b97a8ee7fb923d7496666ab84911b92383f701584e9fde"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.x86_64-linux-gnu-libgfortran4.tar.gz"
-[[Packmol]]
-arch = "x86_64"
-git-tree-sha1 = "bdad107430a400407100bbc3cabbf511eb8c3f93"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "3b2c2d0e353c1a710c69b85efd70fad9caefb692e4dc07881fd44b3238ff0ab6"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.x86_64-linux-gnu-libgfortran5.tar.gz"
-[[Packmol]]
-arch = "x86_64"
-git-tree-sha1 = "9ff10a651479ee601eb46412f6cb33ea2acaa69b"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "b37df4eeacc7abeba877ee6fc88707717004aa92618aeb5626df300b3fbae2d4"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.x86_64-linux-musl-libgfortran3.tar.gz"
-[[Packmol]]
-arch = "x86_64"
-git-tree-sha1 = "043e93188991c32810a5eca6e6a4d90e39c40384"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "a5c65fd3a01b3d8ffb199fdbdb1cb866f1fc032ecdb4b7ba7058caca8d6113ef"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.x86_64-linux-musl-libgfortran4.tar.gz"
-[[Packmol]]
-arch = "x86_64"
-git-tree-sha1 = "466044e4350c16e2f83939d1f3e16e001e712a4b"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[Packmol.download]]
-    sha256 = "bf3528e029a2b1a6db49794198d32d2b61445528e57497adc5976dea618cb41b"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.x86_64-linux-musl-libgfortran5.tar.gz"
-[[Packmol]]
-arch = "x86_64"
-git-tree-sha1 = "c54f192e25c104ce321c32cf48df36cc8f777fdb"
-libgfortran_version = "3.0.0"
-os = "freebsd"
-
-    [[Packmol.download]]
-    sha256 = "95e3d0c4ef373a881017a3a4f7ca74dcefc5e4c822988a194ee45507e4380002"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.x86_64-unknown-freebsd-libgfortran3.tar.gz"
-[[Packmol]]
-arch = "x86_64"
-git-tree-sha1 = "453a5f48cb32b65c64c41d7d5ec6d6b8adc2afe3"
+arch = "aarch64"
+git-tree-sha1 = "b387086ed11eed986fa93e291aafe469fef6687d"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[Packmol.download]]
-    sha256 = "bf3e5361dde954f8bcd84b7227f815611f01824d20f2d6e111002a24a0c83604"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+    sha256 = "61905e861131915e97787eee96fb939ce529f76cd211970eb1e044aa14c20fcf"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.aarch64-unknown-freebsd-libgfortran4.tar.gz"
 [[Packmol]]
-arch = "x86_64"
-git-tree-sha1 = "030a03dc22d1ec48adc7bb89bd7e4878b1e3a812"
+arch = "aarch64"
+git-tree-sha1 = "054de776f5014cbd03ba37dac304c703df9c563f"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[Packmol.download]]
-    sha256 = "ca75e5fffbe2489823fec583bde5de669d789bf9f0d16c1f941a61599e747630"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "03eb36b3cd042cb23e79eb8f60972c114efed58598f70c6c1eb927091f1b618e"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.aarch64-unknown-freebsd-libgfortran5.tar.gz"
 [[Packmol]]
-arch = "x86_64"
-git-tree-sha1 = "c049a06dd7d7ea7b44893632232ea8dba61dfb72"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "58f67f4359d7d71db97b5fe1b177428e6245f40b"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "fd45da0581c10bef8c88aeb921c3635056a3aec9b6787b285303aca9441b2dab"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[Packmol]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3a085a4499bd446041226361dfec86a44042c4ef"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "ded8f6bf53ab2eb6902f8b9a7607b4b5d94268c1494316bd2d39eae49426e446"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[Packmol]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "25a7d78b9a220180a087bb49cdbba7238316d4c9"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "b1254acfb03e4d655732e2339ce5142b5d3296df0cfede42dca3c711c3e6417d"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[Packmol]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "fd591d860aa82a479db0575464ab662c111e8da7"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "3b77ce8c61315276ac14dde8f8e9f750d5016ac8e66d7122cf333f2a57fd82a7"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+[[Packmol]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "93cf1b74a91d24a4d711ac6553cf463defee1ad5"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "efa9ae254bddbb7ddbcde5658d9768f416902d3ec38ac240c7b53e94f104c69e"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[Packmol]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "0025582c6e302c86c2f72f9c953b83c8494799ca"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "c316370a663e4b4564bed05af65f9132c5698603a41921e35a0d9cc2f6c08fd5"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[Packmol]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "33fea5a7701d8f928ad4f75c90e169c3e2396a23"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "c7f239f45ee27fd179ddc83b49466e8a5119b5d5a83dac7210dd93e2b094e13f"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[Packmol]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "fea73d3815ace2d7514d5dffb93a93b89820cf9d"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "ff7752d43d9ec72f077b9466f7553634bccf094247095572dc402d393a92d1e8"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[Packmol]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "7d7efe3031d5b20905bf380d60cad6228e31238e"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "26e9b4802e611e9384fb34483e5daa30714c2075be52c11b4b890f358958c777"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[Packmol]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3656040ff6a911b0941fbfae5d54c741b4e6e174"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "45122a9370d9170fc866f73b1649537e75bff7c97aa8daf22a405f92d322e6a2"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[Packmol]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0ee6c40370f8231f3a8886c92d9ab380f77b0afe"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "20ed3967b6626f2eb6c89dfd41dcb0dcce819ca02c07aa47890df03150e396b1"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[Packmol]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "50e26ed6f2d9a51e4d2f486472355f2a5011f582"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "9df83d7a25fca83b63ff08f913ae68c160f2555b50305b2c3f48d02bfe153fb0"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[Packmol]]
+arch = "i686"
+git-tree-sha1 = "210f8ddb45ae312414d0243b4a0e7802e4f5d18f"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "7c82758792352d9fdcb4d9716f963514cdf9b787abd33bc8f8fb5a281a64ace7"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.i686-linux-gnu-libgfortran3.tar.gz"
+[[Packmol]]
+arch = "i686"
+git-tree-sha1 = "c8b653238e9960aec22aa8af28a6761df0841d26"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "bbe93fe1a942b0f8ba305a751f42c13c8825acc798f350fb0233d8331486578d"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.i686-linux-gnu-libgfortran4.tar.gz"
+[[Packmol]]
+arch = "i686"
+git-tree-sha1 = "91aedb2b71e69caadb4b12629338d9d29c1d85f4"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "12017d29fb0d982104df1c5e4107cf08be016c4d9c8dfe3d7aaad76bcaaf1576"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.i686-linux-gnu-libgfortran5.tar.gz"
+[[Packmol]]
+arch = "i686"
+git-tree-sha1 = "5c3f9ca4be2495148cf539ec19e9a35ef2791004"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "6a35dfd783cdae0ca0a554f51c15f2553f2f3049c576cb9964582146a716b6a1"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.i686-linux-musl-libgfortran3.tar.gz"
+[[Packmol]]
+arch = "i686"
+git-tree-sha1 = "301f42571852a8bf14052e0207f6aa05d197a1dd"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "e24ed544cad604848c7c36a39fec3b5e7fed47060d3d1702ecf5b2222182e24b"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.i686-linux-musl-libgfortran4.tar.gz"
+[[Packmol]]
+arch = "i686"
+git-tree-sha1 = "8cf40f307bf888fb94deb1fa6e14ce3887b8a533"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "107f8762c294805f4bc48c4cfb039f73faca228ef33b38adc465537b03c43bc1"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.i686-linux-musl-libgfortran5.tar.gz"
+[[Packmol]]
+arch = "i686"
+git-tree-sha1 = "12151290970ded7b80fb1a5a284387d006eb8de0"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[Packmol.download]]
-    sha256 = "d14ceb82bea3918e231c03b2ea274c24199ed19849805281346fa37ce338158d"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.x86_64-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "04b96e657ba831fc5dbd1b430f89871c3197026853975ff81ec19d937bd36572"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.i686-w64-mingw32-libgfortran3.tar.gz"
 [[Packmol]]
-arch = "x86_64"
-git-tree-sha1 = "fc2bf4c2d69134ea8607b4c0859351454c7014a4"
+arch = "i686"
+git-tree-sha1 = "a5b5d5f152db2693a7068b4a56ad17740ee1e4d2"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[Packmol.download]]
-    sha256 = "6164afe8363386961c7516294528220a85ac8bbfa587fac3d3da907451f97966"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.x86_64-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "37ff34bc82d38673e7010382d9050bbdfb08222d7a67a52c4c50d8c6bff97993"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.i686-w64-mingw32-libgfortran4.tar.gz"
 [[Packmol]]
-arch = "x86_64"
-git-tree-sha1 = "74f3f72e7bb98aba85ed0c6d7606a590d5dba964"
+arch = "i686"
+git-tree-sha1 = "d430afdca0dd5fdb52146fe1533739a916541c65"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[Packmol.download]]
-    sha256 = "41bd67fc8c971f6ec6f511070eccc7247d62e376ea1a415349df48b46467f04a"
-    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.1+0/Packmol.v20.15.1.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "1c32608eb8e72a8720be1fdf41d9a61af216aa9062420b1150c9190249512cf9"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.i686-w64-mingw32-libgfortran5.tar.gz"
+[[Packmol]]
+arch = "powerpc64le"
+git-tree-sha1 = "7afbbd32c26b63d0494897da08df62db836def73"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "8b02942c6d5988fcd1c3763e696ec1128a97e8f049baf3a297549f2091982674"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[Packmol]]
+arch = "powerpc64le"
+git-tree-sha1 = "8dd89f874187ab5619bce1fa8106f43f54b95a42"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "67758f57db052135292bccbbe26b3ca3059e2f8ff86dd99f2690884c5d50912f"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[Packmol]]
+arch = "powerpc64le"
+git-tree-sha1 = "7ebfdb50595390eca803d0b0ec07dbbc50cbffdc"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "ca19a3151455b40482b17a287fc29bcff954f532592a7e4a9db7b40f1d81e2ce"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[Packmol]]
+arch = "x86_64"
+git-tree-sha1 = "9dfd7f7814b66af887ac9e9d6b27516685df8fb6"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[Packmol.download]]
+    sha256 = "b625d1426aca48c76597b9c8c37346812468aec775422198be6d80beda27adee"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[Packmol]]
+arch = "x86_64"
+git-tree-sha1 = "c8aa9c8971d802b29c46b89fd021f6b012b43545"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[Packmol.download]]
+    sha256 = "42044abd7c9f5fc8df3e8168d085fc4ed175a32655abe4bb9ac78d7ca6b08814"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[Packmol]]
+arch = "x86_64"
+git-tree-sha1 = "02061d820b7cb3a83a9d24dd01454baebfccfded"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[Packmol.download]]
+    sha256 = "daf7394850fb491101e7b394ce80a703e1373ae4926e33c48ebf8b8b629cceba"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[Packmol]]
+arch = "x86_64"
+git-tree-sha1 = "5477ff65719835ee689b12b4d03c56b24654d153"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "ce02cc27f0b646e85ee4a7f6db03c46c78ebdfa730420a31d98a73a384ccde5a"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[Packmol]]
+arch = "x86_64"
+git-tree-sha1 = "861e60bd6379faeaaead4f393dc7b66384ba23d4"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "d4db5b2f0911d2d35e37a54e31bae89b779c1b1ec7a4ec510879fb3d099493e8"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[Packmol]]
+arch = "x86_64"
+git-tree-sha1 = "3c099d333b8dd0170d6a730839165319b6461227"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "49a674d72cea9c8da583f89e125d9286eef8aa01001cbc4451fa55fedd487f63"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[Packmol]]
+arch = "x86_64"
+git-tree-sha1 = "c97c5101d25ad9ec25c0b21cb6f46e511fce5e9c"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "a2b6f8ce5e34df439cc07d2975fbcfb0864544f99ef4780dcf65241243677e1f"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.x86_64-linux-musl-libgfortran3.tar.gz"
+[[Packmol]]
+arch = "x86_64"
+git-tree-sha1 = "563a845618eb90202519442f255539b5ef94ac8f"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "a82368f2ad00198f612a6c89babbd2e37c8667b7715ffcf95dfbbb8f389c970e"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.x86_64-linux-musl-libgfortran4.tar.gz"
+[[Packmol]]
+arch = "x86_64"
+git-tree-sha1 = "eb5baae604ddf99b2b7f77e651d4019e9251697d"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Packmol.download]]
+    sha256 = "6b9728a2b2ddda97b765d0e72f9513a87c110897cb088ff0ae08a6f71367730f"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.x86_64-linux-musl-libgfortran5.tar.gz"
+[[Packmol]]
+arch = "x86_64"
+git-tree-sha1 = "a9102bac15651eec1a6ecca6ad66ae4e5605fa41"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[Packmol.download]]
+    sha256 = "7f486543d87c4f6c97a81f2d1e277ff89a3161d48c64ad7db558124468b48917"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[Packmol]]
+arch = "x86_64"
+git-tree-sha1 = "3cb5f42bfbcfaaf9bfbf27f28ed8e88b82e1010c"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[Packmol.download]]
+    sha256 = "d039b1e25b71e9bcbf290947e5d113a3d9d006c07a176e5106f955266b6a318e"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[Packmol]]
+arch = "x86_64"
+git-tree-sha1 = "d24daa5724d022916231fba04a9662027ae4ba03"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[Packmol.download]]
+    sha256 = "71994ec485e1df9d3f6dc47adec02e80f64f1844c61dd64ba51088dd4b418187"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[Packmol]]
+arch = "x86_64"
+git-tree-sha1 = "e6915f4650d119e2b0af42ae34407b270eed6379"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[Packmol.download]]
+    sha256 = "fb4965b14d8edcefce81df9179d7ab244acac2c8be99e3bd8afe507c57f4e40c"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[Packmol]]
+arch = "x86_64"
+git-tree-sha1 = "8ecbb3a9697a46a2d8d95761fed749be32afbce9"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[Packmol.download]]
+    sha256 = "653cbcccd9d29b45d1eba116a4187f4c25e5738c0c9f3e1b332d9bdbedb090a4"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[Packmol]]
+arch = "x86_64"
+git-tree-sha1 = "427c55f0343d8a5cdc4748be3fed38ecfa0b70ab"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[Packmol.download]]
+    sha256 = "c7d0b7cec3b96174619358a4fdd68dc2f3e911849ff2d3a1df1c4336a43bf9b0"
+    url = "https://github.com/JuliaBinaryWrappers/Packmol_jll.jl/releases/download/Packmol-v20.15.2+0/Packmol.v20.15.2.x86_64-w64-mingw32-libgfortran5.tar.gz"
