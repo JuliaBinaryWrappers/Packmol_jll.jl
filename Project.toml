@@ -1,6 +1,6 @@
 name = "Packmol_jll"
 uuid = "eb89d173-8f78-57a0-9e6e-c2e8c44a5e61"
-version = "20.16.1+0"
+version = "21.0.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
